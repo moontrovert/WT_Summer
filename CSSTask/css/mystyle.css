@@ -1,0 +1,67 @@
+.companyname{
+    background-color: rgb(104, 227, 231);
+    padding: 40px;
+    text-align: center;
+}
+#slogan{
+    color: rgb(27, 27, 172);
+}
+
+#register{
+    border-left: 2px solid blue;
+    padding-left:5px;
+    margin-top: 20px;
+}
+
+div.sticky{
+    position: sticky;
+    top: 0;
+    padding: 0;
+    border: 2px solid #8461d4;
+}
+
+.navbar{
+    overflow: hidden;
+    background-color: purple;
+}
+
+.navbar a
+{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+.button{
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    border-color: blue;
+}
+
+body{
+    background-color : rgba(107, 181, 192, 0.656)
+}
+
+.submit{
+    background-color:blue;
+    color: black;
+}
+
+.reset{
+    background-color:blue;
+    color: black;
+}
+td{
+    background-color: rgb(225, 228, 80);
+}
+
+.back{
+    border-left: 10px solid steelblue;
+    background-color:aqua;
+    height:40px;
+}
